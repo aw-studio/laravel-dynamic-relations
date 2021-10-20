@@ -2,6 +2,8 @@
 
 A package for attaching/detaching dynamic relations to [Elqouent Models](https://laravel.com/docs/eloquent).
 
+See also: [Laravel Dynamic Attributes](https://github.com/aw-studio/laravel-dynamic-attributes)
+
 ## Setup
 
 Install the package via composer:
